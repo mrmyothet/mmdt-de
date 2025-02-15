@@ -1,2 +1,6 @@
-for i in range(0,7):
-    print("*" * (7-i)) 
+for i in range(7, 0, -1):
+    for j in range(i):
+        print("*",end="")
+    print() 
+
+
