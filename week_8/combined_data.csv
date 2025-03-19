@@ -1,0 +1,206 @@
+continent,location,last_updated_date,total_cases,new_cases,new_cases_smoothed,total_deaths,new_deaths,new_deaths_smoothed,total_cases_per_million,iso3,capital,name,description,main.temp_max,main.temp_min
+Asia,Afghanistan,2024-08-04,235214.0,0.0,0.0,7998.0,0.0,0.0,5796.468,AFG,kabul,kabul,clear sky,285.62,285.62
+Europe,Albania,2024-08-04,335047.0,0.0,0.0,3605.0,0.0,0.0,118491.02,ALB,tirana,tirana,clear sky,284.64,284.64
+Africa,Algeria,2024-08-04,272139.0,18.0,2.571,6881.0,0.0,0.0,5984.05,DZA,algiers,algiers,clear sky,293.05,293.05
+Oceania,American Samoa,2024-08-04,8359.0,0.0,0.0,34.0,0.0,0.0,172831.6,ASM,pago pago,pago pago,overcast clouds,301.12,301.12
+Europe,Andorra,2024-08-04,48015.0,0.0,0.0,159.0,0.0,0.0,602280.44,AND,andorra la vella,andorra la vella,overcast clouds,277.27,276.76
+Africa,Angola,2024-08-04,107481.0,0.0,0.0,1937.0,0.0,0.0,3016.162,AGO,luanda,luanda,broken clouds,300.83,300.83
+North America,Anguilla,2024-08-04,3904.0,0.0,0.0,12.0,0.0,0.0,274890.88,AIA,the valley,the valley,broken clouds,299.4,299.4
+North America,Antigua and Barbuda,2024-08-04,9106.0,0.0,0.0,146.0,0.0,0.0,98071.1,ATG,st. john's,st. john's,overcast clouds,275.53,272.9
+South America,Argentina,2024-08-04,10101218.0,54.0,7.714,130663.0,1.0,0.143,222455.06,ARG,buenos aires,buenos aires,clear sky,303.68,301.55
+Asia,Armenia,2024-08-04,452273.0,0.0,0.0,8777.0,0.0,0.0,156991.11,ARM,yerevan,yerevan,broken clouds,281.24,281.24
+North America,Aruba,2024-08-04,44224.0,0.0,0.0,292.0,0.0,0.0,410271.62,ABW,oranjestad,oranjestad,broken clouds,299.29,299.29
+Oceania,Australia,2024-08-04,11861161.0,0.0,0.0,25236.0,0.0,0.0,452699.0,AUS,canberra,canberra,overcast clouds,292.64,289.76
+Europe,Austria,2024-08-04,6082444.0,15.0,2.143,22534.0,0.0,0.0,671004.9,AUT,vienna,vienna,clear sky,284.74,282.52
+Asia,Azerbaijan,2024-08-04,835757.0,63.0,9.0,10353.0,0.0,0.0,81178.445,AZE,baku,baku,broken clouds,281.18,281.18
+North America,Bahamas,2024-08-04,39127.0,0.0,0.0,849.0,0.0,0.0,98421.81,BHS,nassau,nassau,clear sky,287.43,283.34
+Asia,Bahrain,2024-08-04,696614.0,0.0,0.0,1536.0,0.0,0.0,454276.25,BHR,manama,manama,clear sky,297.03,297.03
+Asia,Bangladesh,2024-08-04,2051348.0,40.0,5.714,29499.0,0.0,0.0,12110.572,BGD,dhaka,dhaka,haze,302.14,302.14
+North America,Barbados,2024-08-04,108582.0,57.0,8.143,593.0,0.0,0.0,384600.7,BRB,bridgetown,bridgetown,few clouds,303.42,303.42
+Europe,Belarus,2024-08-04,994037.0,0.0,0.0,7118.0,0.0,0.0,108362.68,BLR,minsk,minsk,few clouds,278.65,278.65
+Europe,Belgium,2024-08-04,4872829.0,1277.0,182.429,34339.0,0.0,0.0,418562.72,BEL,brussels,brussels,clear sky,291.37,290.23
+North America,Belize,2024-08-04,71414.0,0.0,0.0,688.0,0.0,0.0,177319.92,BLZ,belmopan,belmopan,clear sky,301.53,301.53
+Africa,Benin,2024-08-04,28036.0,0.0,0.0,163.0,0.0,0.0,2037.573,BEN,porto-novo,porto-novo,broken clouds,304.35,304.35
+North America,Bermuda,2024-08-04,18860.0,0.0,0.0,165.0,0.0,0.0,291175.2,BMU,hamilton,hamilton,clear sky,291.81,290.06
+Asia,Bhutan,2024-08-04,62697.0,0.0,0.0,21.0,0.0,0.0,80286.07,BTN,thimphu,thimphu,clear sky,276.13,276.13
+South America,Bolivia,2024-08-04,1212147.0,2.0,0.286,22387.0,0.0,0.0,100366.93,BOL,sucre,sucre,broken clouds,289.29,289.29
+North America,Bonaire Sint Eustatius and Saba,2024-08-04,11922.0,0.0,0.0,41.0,0.0,0.0,416067.56,BES,kralendijk,kralendijk,broken clouds,305.14,305.14
+Europe,Bosnia and Herzegovina,2024-08-04,403666.0,0.0,0.0,16392.0,0.0,0.0,125956.49,BIH,sarajevo,sarajevo,clear sky,284.1,284.1
+Africa,Botswana,2024-08-04,330696.0,0.0,0.0,2801.0,0.0,0.0,135536.98,BWA,gaborone,gaborone,broken clouds,298.87,298.87
+North America,British Virgin Islands,2024-08-04,7557.0,0.0,0.0,64.0,0.0,0.0,197084.3,VGB,road town,road town,broken clouds,301.17,301.17
+Europe,Bulgaria,2024-08-04,1329988.0,257.0,36.714,38700.0,0.0,0.0,194845.4,BGR,sofia,sofia,clear sky,278.98,278.98
+Africa,Burkina Faso,2024-08-04,22139.0,0.0,0.0,400.0,0.0,0.0,983.56,BFA,ouagadougou,ouagadougou,scattered clouds,314.03,314.03
+Africa,Burundi,2024-08-04,54569.0,0.0,0.0,15.0,0.0,0.0,4096.433,BDI,bujumbura,bujumbura,overcast clouds,294.41,294.41
+Asia,Cambodia,2024-08-04,139319.0,6.0,0.857,3056.0,0.0,0.0,8099.134,KHM,phnom penh,phnom penh,few clouds,302.1,302.1
+North America,Canada,2024-08-04,4819055.0,38.0,5.429,55282.0,0.0,0.0,124134.43,CAN,ottawa,ottawa,overcast clouds,282.68,279.88
+Africa,Cape Verde,2024-08-04,64474.0,0.0,0.0,417.0,0.0,0.0,124048.1,CPV,praia,praia,clear sky,295.43,295.43
+North America,Cayman Islands,2024-08-04,31472.0,0.0,0.0,37.0,0.0,0.0,439497.84,CYM,george town,george town,few clouds,303.12,300.87
+North America,Cayman Islands,2024-08-04,31472.0,0.0,0.0,37.0,0.0,0.0,439497.84,CYM,george town,george town,few clouds,303.12,300.87
+Africa,Central African Republic,2024-08-04,15441.0,0.0,0.0,113.0,0.0,0.0,3028.812,CAF,bangui,bangui,overcast clouds,299.91,299.91
+Africa,Chad,2024-08-04,7702.0,0.0,0.0,194.0,0.0,0.0,417.332,TCD,n'djamena,n'djamena,scattered clouds,312.59,312.59
+South America,Chile,2024-08-04,5401126.0,100.0,14.286,62730.0,0.0,0.0,276229.6,CHL,santiago,santiago,clear sky,298.84,298.84
+Asia,China,2024-08-04,99373219.0,2087.0,298.143,122304.0,15.0,2.143,69726.805,CHN,beijing,beijing,clear sky,281.09,281.09
+Africa,Comoros,2024-08-04,9109.0,0.0,0.0,160.0,0.0,0.0,10919.549,COM,moroni,moroni,moderate rain,300.81,300.81
+Africa,Congo,2024-08-04,25227.0,0.0,0.0,389.0,0.0,0.0,4180.042,COG,brazzaville,brazzaville,overcast clouds,304.03,304.03
+Oceania,Cook Islands,2024-08-04,7345.0,1.0,0.143,2.0,0.0,0.0,498067.4,COK,avarua,avarua,few clouds,298.18,298.18
+North America,Costa Rica,2024-08-04,1234701.0,0.0,0.0,9372.0,0.0,0.0,242966.97,CRI,san jose,san jose,broken clouds,284.17,280.01
+Africa,Cote d'Ivoire,2024-08-04,88434.0,0.0,0.0,835.0,0.0,0.0,2909.492,CIV,yamoussoukro,yamoussoukro,moderate rain,300.99,300.99
+North America,Cuba,2024-08-04,1113662.0,0.0,0.0,8530.0,0.0,0.0,100694.4,CUB,havana,havana,clear sky,298.44,298.39
+North America,Curacao,2024-08-04,45883.0,0.0,0.0,305.0,0.0,0.0,247546.55,CUW,willemstad,willemstad,broken clouds,299.74,299.74
+Europe,Cyprus,2024-08-04,696410.0,0.0,0.0,1451.0,0.0,0.0,523075.38,CYP,nicosia,nicosia,broken clouds,282.98,282.98
+Europe,Czechia,2024-08-12,4761919.0,571.0,81.571,43509.0,1.0,0.143,446155.97,CZE,prague,prague,clear sky,285.32,283.87
+Africa,Democratic Republic of Congo,2024-08-04,101009.0,0.0,0.0,1474.0,0.0,0.0,986.445,COD,kinshasa,kinshasa,overcast clouds,304.04,304.04
+Europe,Denmark,2024-08-04,3435679.0,0.0,0.0,9693.0,0.0,0.0,582032.56,DNK,copenhagen,copenhagen,clear sky,283.34,282.67
+Africa,Djibouti,2024-08-04,15690.0,0.0,0.0,189.0,0.0,0.0,13798.259,DJI,djibouti,djibouti,broken clouds,297.58,297.58
+North America,Dominica,2024-08-04,16047.0,0.0,0.0,74.0,0.0,0.0,240044.88,DMA,roseau,roseau,light rain,299.64,299.64
+North America,Dominican Republic,2024-08-04,661103.0,0.0,0.0,4384.0,0.0,0.0,58865.52,DOM,santo domingo,santo domingo,few clouds,301.95,300.89
+Asia,East Timor,2024-08-04,23460.0,0.0,0.0,138.0,0.0,0.0,17132.854,TLS,dili,dili,overcast clouds,299.94,299.94
+South America,Ecuador,2024-08-04,1077445.0,157.0,22.429,36050.0,0.0,0.0,60449.453,ECU,quito,quito,light rain,290.68,290.68
+Africa,Egypt,2024-08-04,516023.0,0.0,0.0,24830.0,0.0,0.0,4582.054,EGY,cairo,cairo,clear sky,293.18,293.18
+North America,El Salvador,2024-08-04,201920.0,3.0,0.429,4230.0,0.0,0.0,32151.248,SLV,san salvador,san salvador,few clouds,301.41,301.41
+Africa,Equatorial Guinea,2024-08-04,17130.0,0.0,0.0,183.0,0.0,0.0,9497.935,GNQ,malabo,malabo,light rain,301.48,301.48
+Africa,Eritrea,2024-08-04,10189.0,0.0,0.0,103.0,0.0,0.0,2988.457,ERI,asmara,asmara,light rain,291.6,291.6
+Europe,Estonia,2024-08-12,610471.0,0.0,0.0,2998.0,0.0,0.0,452169.94,EST,tallinn,tallinn,clear sky,278.34,277.01
+Africa,Eswatini,2024-08-04,75356.0,0.0,0.0,1427.0,0.0,0.0,61821.89,SWZ,mbabane,mbabane,light rain,289.31,289.31
+Africa,Ethiopia,2024-08-04,501193.0,0.0,0.0,7574.0,0.0,0.0,3997.255,ETH,addis ababa,addis ababa,light rain,288.08,288.08
+South America,Falkland Islands,2024-08-04,1923.0,0.0,0.0,0.0,0.0,0.0,547083.94,FLK,stanley,stanley,clear sky,283.43,283.16
+Oceania,Fiji,2024-08-04,69047.0,0.0,0.0,885.0,0.0,0.0,75097.78,FJI,suva,suva,broken clouds,297.86,297.86
+Europe,Finland,2024-08-04,1499712.0,0.0,0.0,11466.0,0.0,0.0,269281.97,FIN,helsinki,helsinki,clear sky,279.36,277.65
+Europe,France,2024-08-04,38997490.0,,,168091.0,,,606706.0,FRA,paris,paris,clear sky,291.56,290.49
+South America,French Guiana,2024-08-04,98041.0,0.0,0.0,413.0,0.0,0.0,328644.84,GUF,cayenne,cayenne,broken clouds,301.17,301.17
+Oceania,French Polynesia,2024-08-04,79387.0,47.0,6.714,650.0,0.0,0.0,283131.66,PYF,papeete,papeete,clear sky,298.11,298.1
+Africa,Gabon,2024-08-04,49051.0,0.0,0.0,307.0,0.0,0.0,20179.352,GAB,libreville,libreville,scattered clouds,301.17,301.17
+Asia,Georgia,2024-08-04,1863615.0,0.0,0.0,17150.0,0.0,0.0,491099.22,GEO,tbilisi,tbilisi,overcast clouds,279.99,279.99
+Europe,Germany,2024-08-04,38437756.0,,,174979.0,,,457123.1,DEU,berlin,berlin,clear sky,286.52,285.36
+Africa,Ghana,2024-08-04,172062.0,0.0,0.0,1462.0,0.0,0.0,5190.54,GHA,accra,accra,overcast clouds,306.61,306.61
+Europe,Gibraltar,2024-08-04,20550.0,0.0,0.0,113.0,0.0,0.0,546092.3,GIB,gibraltar,gibraltar,broken clouds,290.12,288.71
+Europe,Greece,2024-08-04,5673681.0,5818.0,831.143,39258.0,40.0,5.714,544892.3,GRC,athens,athens,few clouds,282.72,280.43
+North America,Greenland,2024-08-04,11971.0,0.0,0.0,21.0,0.0,0.0,213714.42,GRL,nuuk,nuuk,light snow,265.49,264.75
+North America,Grenada,2024-08-04,19693.0,0.0,0.0,238.0,0.0,0.0,168419.88,GRD,st. george's,st. george's,few clouds,301.66,301.66
+North America,Guatemala,2024-08-04,1250371.0,1.0,0.143,20203.0,0.0,0.0,70057.125,GTM,guatemala city,guatemala city,few clouds,295.06,294.89
+Europe,Guernsey,2024-08-04,35326.0,0.0,0.0,67.0,0.0,0.0,554150.6,GGY,st peter port,st peter port,few clouds,286.76,286.76
+Africa,Guinea,2024-08-04,38572.0,0.0,0.0,468.0,0.0,0.0,2744.335,GIN,conakry,conakry,few clouds,304.19,304.19
+Africa,Guinea-Bissau,2024-08-04,9614.0,0.0,0.0,177.0,0.0,0.0,4566.056,GNB,bissau,bissau,scattered clouds,305.38,305.38
+North America,Haiti,2024-08-04,34456.0,0.0,0.0,860.0,0.0,0.0,2995.235,HTI,port-au-prince,port-au-prince,few clouds,300.94,300.94
+North America,Honduras,2024-08-04,472896.0,1.0,0.143,11114.0,0.0,0.0,45193.176,HND,tegucigalpa,tegucigalpa,scattered clouds,298.57,298.4
+Asia,Hong Kong,2024-08-10,,,,,,,,HKG,hong kong,hong kong,clear sky,291.66,289.24
+Asia,Hong Kong,2024-08-10,,,,,,,,HKG,hong kong,hong kong,clear sky,291.66,289.24
+Europe,Hungary,2024-08-04,2230800.0,143.0,20.429,49053.0,0.0,0.0,230352.08,HUN,budapest,budapest,clear sky,282.6,280.41
+Europe,Iceland,2024-08-04,210374.0,27.0,3.857,186.0,0.0,0.0,553080.2,ISL,reykjavik,reykjavik,overcast clouds,281.42,281.42
+Asia,India,2024-08-12,45041748.0,313.0,44.714,533623.0,0.0,0.0,31598.86,IND,new delhi,new delhi,haze,299.24,299.24
+Asia,Indonesia,2024-08-04,6829399.0,46.0,6.571,162059.0,0.0,0.0,24493.01,IDN,jakarta,jakarta,few clouds,301.2,298.09
+Asia,Iran,2024-08-04,7627863.0,0.0,0.0,146837.0,0.0,0.0,85204.44,IRN,tehran,tehran,scattered clouds,295.14,294.66
+Asia,Iraq,2024-08-04,2465545.0,0.0,0.0,25375.0,0.0,0.0,55945.402,IRQ,baghdad,baghdad,clear sky,299.1,299.1
+Europe,Ireland,2024-08-04,1745088.0,761.0,108.714,9744.0,9.0,1.286,341503.62,IRL,dublin,dublin,clear sky,282.51,279.25
+Asia,Israel,2024-08-04,4841558.0,0.0,0.0,12707.0,0.0,0.0,531855.56,ISR,jerusalem,jerusalem,clear sky,286.32,286.3
+Europe,Italy,2024-08-07,26781078.0,6350.0,907.143,197307.0,6.0,0.857,449202.94,ITA,rome,rome,broken clouds,293.57,290.68
+North America,Jamaica,2024-08-04,157181.0,12.0,1.714,3611.0,0.0,0.0,55361.973,JAM,kingston,kingston,clear sky,303.8,303.8
+Asia,Japan,2024-08-04,33803572.0,0.0,0.0,74694.0,0.0,0.0,270433.8,JPN,tokyo,tokyo,scattered clouds,279.63,276.81
+Europe,Jersey,2024-08-04,66391.0,0.0,0.0,161.0,0.0,0.0,641502.3,JEY,saint helier,saint helier,clear sky,287.58,287.58
+Asia,Jordan,2024-08-04,1746997.0,0.0,0.0,14122.0,0.0,0.0,155202.16,JOR,amman,amman,dust,288.9,287.2
+Africa,Kenya,2024-08-04,344106.0,0.0,0.0,5689.0,0.0,0.0,6342.68,KEN,nairobi,nairobi,light rain,292.98,292.98
+Oceania,Kiribati,2024-08-04,5085.0,0.0,0.0,24.0,0.0,0.0,38971.19,KIR,tarawa,tarawa,broken clouds,300.2,300.2
+Asia,Kuwait,2024-08-04,667290.0,0.0,0.0,2570.0,0.0,0.0,145394.48,KWT,kuwait city,kuwait city,clear sky,294.74,294.14
+Asia,Kyrgyzstan,2024-08-04,88953.0,0.0,0.0,1024.0,0.0,0.0,12788.335,KGZ,bishkek,bishkek,clear sky,284.26,284.26
+Asia,Laos,2024-08-04,219060.0,0.0,0.0,671.0,0.0,0.0,28979.996,LAO,vientiane,vientiane,broken clouds,298.11,296.99
+Asia,Lebanon,2024-08-04,1239904.0,0.0,0.0,10947.0,0.0,0.0,215842.16,LBN,beirut,beirut,broken clouds,288.36,286.56
+Africa,Lesotho,2024-08-04,36138.0,0.0,0.0,709.0,0.0,0.0,15807.624,LSO,maseru,maseru,broken clouds,293.97,293.97
+Africa,Liberia,2024-08-04,7930.0,0.0,0.0,294.0,0.0,0.0,1475.817,LBR,monrovia,monrovia,overcast clouds,301.89,301.89
+Europe,Liechtenstein,2024-08-04,21588.0,0.0,0.0,89.0,0.0,0.0,548810.25,LIE,vaduz,vaduz,clear sky,287.54,285.71
+Europe,Lithuania,2024-08-14,1369355.0,807.0,115.286,9810.0,0.0,0.0,486117.47,LTU,vilnius,vilnius,broken clouds,278.38,277.44
+Africa,Madagascar,2024-08-04,68567.0,0.0,0.0,1428.0,0.0,0.0,2252.732,MDG,antananarivo,antananarivo,broken clouds,293.13,293.13
+Africa,Malawi,2024-08-04,89168.0,0.0,0.0,2686.0,0.0,0.0,4335.124,MWI,lilongwe,lilongwe,overcast clouds,292.9,292.9
+Asia,Malaysia,2024-08-14,5309410.0,1085.0,155.0,37351.0,0.0,0.0,153028.81,MYS,kuala lumpur,kuala lumpur,few clouds,300.9,300.9
+Africa,Mali,2024-08-04,33166.0,0.0,0.0,743.0,0.0,0.0,1437.46,MLI,bamako,bamako,few clouds,310.38,310.38
+Europe,Malta,2024-08-04,122796.0,80.0,11.429,922.0,1.0,0.143,232482.77,MLT,valletta,valletta,few clouds,288.14,287.45
+Oceania,Marshall Islands,2024-08-04,16297.0,0.0,0.0,17.0,0.0,0.0,406469.78,MHL,majuro,majuro,overcast clouds,300.4,300.4
+Africa,Mauritania,2024-08-04,63872.0,0.0,0.0,997.0,0.0,0.0,13100.216,MRT,nouakchott,nouakchott,clear sky,301.11,301.11
+Africa,Mauritius,2024-08-04,328167.0,0.0,0.0,1073.0,0.0,0.0,257157.16,MUS,port louis,port louis,light rain,300.05,298.38
+Africa,Mayotte,2024-08-04,42027.0,0.0,0.0,187.0,0.0,0.0,137667.97,MYT,mamoudzou,mamoudzou,few clouds,301.94,301.94
+Oceania,Micronesia (country),2024-08-04,31765.0,0.0,0.0,65.0,0.0,0.0,283302.4,FSM,palikir,palikir,light rain,300.34,300.34
+Europe,Monaco,2024-08-04,17181.0,0.0,0.0,67.0,0.0,0.0,441115.3,MCO,monaco,monaco,clear sky,286.73,284.49
+Europe,Montenegro,2024-08-04,251280.0,0.0,0.0,2654.0,0.0,0.0,408818.03,MNE,podgorica,podgorica,clear sky,285.03,285.03
+North America,Montserrat,2024-08-04,1403.0,0.0,0.0,8.0,0.0,0.0,313449.5,MSR,plymouth,plymouth,few clouds,286.1,282.24
+Africa,Morocco,2024-08-04,1279115.0,0.0,0.0,16305.0,0.0,0.0,34265.92,MAR,rabat,rabat,scattered clouds,294.19,294.19
+Africa,Mozambique,2024-08-04,233843.0,0.0,0.0,2252.0,0.0,0.0,7160.744,MOZ,maputo,maputo,few clouds,296.33,296.33
+Asia,Myanmar,2024-08-04,642885.0,26.0,3.714,19494.0,0.0,0.0,11959.141,MMR,nay pyi taw,nay pyi taw,clear sky,301.24,301.24
+Africa,Namibia,2024-08-04,172533.0,0.0,0.0,4108.0,0.0,0.0,59706.86,NAM,windhoek,windhoek,overcast clouds,294.88,294.5
+Oceania,Nauru,2024-08-04,5393.0,0.0,0.0,1.0,0.0,0.0,456221.97,NRU,yaren,yaren,overcast clouds,299.89,299.89
+Asia,Nepal,2024-08-04,1003450.0,0.0,0.0,12031.0,0.0,0.0,33768.65,NPL,kathmandu,kathmandu,few clouds,291.27,291.27
+Europe,Netherlands,2024-08-04,8640008.0,383.0,54.714,22986.0,0.0,0.0,482562.8,NLD,amsterdam,amsterdam,clear sky,290.31,288.62
+Oceania,New Caledonia,2024-08-04,80163.0,0.0,0.0,314.0,0.0,0.0,279186.16,NCL,noumea,noumea,broken clouds,297.61,297.61
+Oceania,New Zealand,2024-08-11,2639048.0,1730.0,247.143,4284.0,16.0,2.286,514260.6,NZL,wellington,wellington,overcast clouds,287.96,287.96
+North America,Nicaragua,2024-08-04,16185.0,2.0,0.286,245.0,0.0,0.0,2404.667,NIC,managua,managua,scattered clouds,302.84,302.84
+Africa,Niger,2024-08-04,9518.0,0.0,0.0,315.0,0.0,0.0,376.028,NER,niamey,niamey,broken clouds,314.61,314.61
+Africa,Nigeria,2024-08-04,267188.0,0.0,0.0,3155.0,0.0,0.0,1197.342,NGA,abuja,abuja,overcast clouds,308.45,308.45
+Oceania,Niue,2024-08-04,1074.0,0.0,0.0,0.0,0.0,0.0,582429.5,NIU,alofi,alofi,light rain,300.09,300.09
+Asia,North Korea,2024-08-04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PRK,pyongyang,pyongyang,clear sky,273.6,273.6
+Europe,North Macedonia,2024-08-04,350924.0,116.0,16.571,9978.0,0.0,0.0,190695.11,MKD,skopje,skopje,clear sky,285.97,285.97
+Oceania,Northern Mariana Islands,2024-08-04,14912.0,31.0,4.429,41.0,0.0,0.0,323463.7,MNP,saipan,saipan,scattered clouds,299.62,299.54
+Europe,Norway,2024-08-04,1512647.0,745.0,106.429,5732.0,0.0,0.0,277204.28,NOR,oslo,oslo,few clouds,279.6,279.6
+Asia,Oman,2024-08-04,399449.0,0.0,0.0,4628.0,0.0,0.0,84446.055,OMN,muscat,muscat,clear sky,298.5,298.5
+Asia,Pakistan,2024-08-04,1580631.0,0.0,0.0,30656.0,0.0,0.0,6485.952,PAK,islamabad,islamabad,broken clouds,292.37,292.37
+Oceania,Palau,2024-08-04,6372.0,0.0,0.0,10.0,0.0,0.0,358299.6,PLW,melekeok,melekeok,broken clouds,299.06,299.06
+Asia,Palestine,2024-08-04,703228.0,0.0,0.0,5708.0,0.0,0.0,132552.62,PSE,east jerusalem,east jerusalem,clear sky,286.49,286.46
+North America,Panama,2024-08-04,1044821.0,0.0,0.0,8748.0,0.0,0.0,237417.66,PAN,panama city,panama city,scattered clouds,305.89,304.02
+Oceania,Papua New Guinea,2024-08-04,46864.0,0.0,0.0,670.0,0.0,0.0,4593.08,PNG,port moresby,port moresby,light rain,297.83,297.83
+South America,Peru,2024-08-04,4526977.0,0.0,0.0,220975.0,0.0,0.0,135232.81,PER,lima,lima,few clouds,295.29,295.29
+Asia,Philippines,2024-08-04,4140383.0,0.0,0.0,66864.0,0.0,0.0,36330.51,PHL,manila,manila,broken clouds,300.44,299.29
+Oceania,Pitcairn,2024-08-04,4.0,0.0,0.0,0.0,0.0,0.0,88888.89,PCN,adamstown,adamstown,light rain,297.41,297.41
+Europe,Poland,2024-08-04,6670799.0,2463.0,351.857,120726.0,4.0,0.571,173783.28,POL,warsaw,warsaw,clear sky,283.59,281.36
+Europe,Portugal,2024-08-04,5664109.0,1055.0,150.714,28809.0,50.0,7.143,543733.1,PRT,lisbon,lisbon,moderate rain,289.57,288.22
+North America,Puerto Rico,2024-08-04,1252713.0,0.0,0.0,5938.0,0.0,0.0,386523.97,PRI,san juan,san juan,clear sky,304.33,304.33
+Asia,Qatar,2024-08-04,514524.0,0.0,0.0,690.0,0.0,0.0,177884.27,QAT,doha,doha,clear sky,300.32,298.14
+Europe,Romania,2024-08-04,3541619.0,4633.0,661.857,68825.0,6.0,0.857,184779.06,ROU,bucharest,bucharest,clear sky,282.2,280.85
+Europe,Russia,2024-08-04,24268728.0,7777.0,1111.0,403188.0,10.0,1.429,166703.84,RUS,moscow,moscow,overcast clouds,277.8,277.39
+Africa,Rwanda,2024-08-04,133264.0,0.0,0.0,1468.0,0.0,0.0,9762.196,RWA,kigali,kigali,scattered clouds,295.86,295.86
+North America,Saint Barthelemy,2024-08-04,5507.0,0.0,0.0,5.0,0.0,0.0,503014.25,BLM,gustavia,gustavia,broken clouds,300.44,300.44
+Africa,Saint Helena,2024-08-04,2166.0,0.0,0.0,0.0,0.0,0.0,403427.1,SHN,jamestown,jamestown,clear sky,292.9,291.95
+North America,Saint Kitts and Nevis,2024-08-04,6607.0,0.0,0.0,46.0,0.0,0.0,141383.66,KNA,basseterre,basseterre,few clouds,302.36,302.36
+North America,Saint Lucia,2024-08-04,30282.0,0.0,0.0,410.0,0.0,0.0,169368.1,LCA,castries,castries,few clouds,302.35,302.35
+North America,Saint Martin (French part),2024-08-04,12324.0,0.0,0.0,46.0,0.0,0.0,426465.5,MAF,marigot,marigot,broken clouds,299.36,299.36
+North America,Saint Pierre and Miquelon,2024-08-04,3426.0,0.0,0.0,2.0,0.0,0.0,594791.7,SPM,saint-pierre,saint-pierre,light rain,299.97,299.97
+North America,Saint Vincent and the Grenadines,2024-08-04,9674.0,0.0,0.0,124.0,0.0,0.0,94785.52,VCT,kingstown,kingstown,broken clouds,304.75,304.75
+Oceania,Samoa,2024-08-04,17057.0,0.0,0.0,31.0,0.0,0.0,79235.75,WSM,apia,apia,overcast clouds,301.99,301.99
+Europe,San Marino,2024-08-04,25292.0,0.0,0.0,126.0,0.0,0.0,741418.25,SMR,san marino,san marino,clear sky,282.39,280.55
+Asia,Saudi Arabia,2024-08-04,841469.0,0.0,0.0,9646.0,0.0,0.0,26152.596,SAU,riyadh,riyadh,few clouds,303.71,303.71
+Africa,Senegal,2024-08-04,89485.0,0.0,0.0,1971.0,0.0,0.0,5069.656,SEN,dakar,dakar,clear sky,294.5,294.5
+Europe,Serbia,2024-08-04,2583470.0,0.0,0.0,18057.0,0.0,0.0,380413.34,SRB,belgrade,belgrade,clear sky,282.22,280.59
+Africa,Sierra Leone,2024-08-04,7979.0,0.0,0.0,125.0,0.0,0.0,964.019,SLE,freetown,freetown,broken clouds,300.06,300.06
+North America,Sint Maarten (Dutch part),2024-08-04,11051.0,0.0,0.0,92.0,0.0,0.0,262101.84,SXM,philipsburg,philipsburg,broken clouds,300.88,300.88
+Europe,Slovakia,2024-08-04,1878002.0,61.0,8.714,21227.0,1.0,0.143,343127.25,SVK,bratislava,bratislava,clear sky,282.96,282.35
+Europe,Slovenia,2024-08-04,1356582.0,148.0,21.143,10083.0,4.0,0.571,641340.2,SVN,ljubljana,ljubljana,clear sky,284.63,280.88
+Oceania,Solomon Islands,2024-08-04,25954.0,0.0,0.0,199.0,0.0,0.0,33228.562,SLB,honiara,honiara,scattered clouds,299.0,299.0
+Africa,Somalia,2024-08-04,27334.0,0.0,0.0,1361.0,0.0,0.0,1535.455,SOM,mogadishu,mogadishu,broken clouds,300.49,300.49
+Africa,South Africa,2024-08-04,4072765.0,0.0,0.0,102595.0,0.0,0.0,65291.246,ZAF,pretoria,pretoria,scattered clouds,294.02,294.02
+Asia,South Korea,2024-08-04,34571873.0,0.0,0.0,35934.0,0.0,0.0,667636.06,KOR,seoul,seoul,mist,274.91,272.93
+Africa,South Sudan,2024-08-04,18823.0,0.0,0.0,147.0,0.0,0.0,1707.894,SSD,juba,juba,light rain,299.57,299.57
+Europe,Spain,2024-08-04,13980340.0,,,121852.0,,,292302.16,ESP,madrid,madrid,broken clouds,289.83,288.27
+Asia,Sri Lanka,2024-08-04,672798.0,1.0,0.143,16907.0,0.0,0.0,29463.502,LKA,colombo,colombo,overcast clouds,300.63,300.63
+Africa,Sudan,2024-08-04,63993.0,0.0,0.0,5046.0,0.0,0.0,1295.842,SDN,khartoum,khartoum,scattered clouds,309.04,309.04
+Europe,Sweden,2024-08-04,2755181.0,630.0,90.0,27399.0,28.0,4.0,262715.12,SWE,stockholm,stockholm,clear sky,285.01,283.81
+Europe,Switzerland,2024-08-04,4457868.0,426.0,60.857,14170.0,0.0,0.0,507026.47,CHE,bern,bern,clear sky,288.23,286.17
+Asia,Syria,2024-08-04,57423.0,0.0,0.0,3163.0,0.0,0.0,2556.432,SYR,damascus,damascus,clear sky,287.57,287.57
+Asia,Tajikistan,2024-08-04,17786.0,0.0,0.0,125.0,0.0,0.0,1746.769,TJK,dushanbe,dushanbe,clear sky,290.05,290.05
+Africa,Tanzania,2024-08-04,43230.0,0.0,0.0,846.0,0.0,0.0,668.039,TZA,dodoma,dodoma,overcast clouds,295.7,295.7
+Asia,Thailand,2024-08-04,4799180.0,560.0,80.0,34715.0,1.0,0.143,66901.21,THA,bangkok,bangkok,overcast clouds,303.12,300.32
+Oceania,Tonga,2024-08-04,16976.0,0.0,0.0,12.0,0.0,0.0,161594.62,TON,nuku'alofa,nuku'alofa,light rain,299.34,299.34
+North America,Trinidad and Tobago,2024-08-04,191496.0,0.0,0.0,4390.0,0.0,0.0,128012.02,TTO,port of spain,port of spain,scattered clouds,305.35,305.35
+Asia,Turkey,2024-08-04,17004718.0,0.0,0.0,101419.0,0.0,0.0,195325.25,TUR,ankara,ankara,overcast clouds,273.66,273.26
+Asia,Turkmenistan,2024-08-04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,TKM,ashgabat,ashgabat,scattered clouds,298.89,298.89
+North America,Turks and Caicos Islands,2024-08-04,6805.0,0.0,0.0,40.0,0.0,0.0,148357.28,TCA,cockburn town,cockburn town,clear sky,296.31,296.31
+Oceania,Tuvalu,2024-08-04,2943.0,0.0,0.0,1.0,0.0,0.0,293947.25,TUV,funafuti,funafuti,few clouds,302.15,302.15
+Africa,Uganda,2024-08-04,172154.0,0.0,0.0,3632.0,0.0,0.0,3638.641,UGA,kampala,kampala,overcast clouds,295.33,295.33
+Europe,Ukraine,2024-08-04,5532777.0,171.0,24.429,109920.0,0.0,0.0,134785.47,UKR,kyiv,kyiv,overcast clouds,280.22,280.22
+Asia,United Arab Emirates,2024-08-04,1067030.0,0.0,0.0,2349.0,0.0,0.0,104180.94,ARE,abu dhabi,abu dhabi,clear sky,299.23,299.23
+Europe,United Kingdom,2024-08-04,24974629.0,3400.0,485.714,232112.0,0.0,0.0,366308.0,GBR,london,london,overcast clouds,290.68,289.1
+North America,United States,2024-08-04,103436829.0,,,1193165.0,619.0,88.429,302859.5,USA,washington,washington,overcast clouds,273.47,273.18
+North America,United States Virgin Islands,2024-08-04,25389.0,0.0,0.0,132.0,0.0,0.0,293443.22,VIR,charlotte amalie,charlotte amalie,broken clouds,301.0,301.0
+South America,Uruguay,2024-08-04,1041346.0,15.0,2.143,7682.0,0.0,0.0,307099.0,URY,montevideo,montevideo,broken clouds,297.36,294.55
+Asia,Uzbekistan,2024-08-04,175081.0,0.0,0.0,1016.0,0.0,0.0,5011.054,UZB,tashkent,tashkent,clear sky,295.12,295.12
+Europe,Vatican,2024-08-04,26.0,0.0,0.0,0.0,0.0,0.0,50682.26,VAT,vatican city,vatican city,clear sky,287.12,285.86
+South America,Venezuela,2024-08-04,552695.0,0.0,0.0,5856.0,0.0,0.0,19590.072,VEN,caracas,caracas,overcast clouds,299.91,298.53
+Asia,Vietnam,2024-08-04,11624000.0,0.0,0.0,43206.0,0.0,0.0,116612.4,VNM,hanoi,hanoi,overcast clouds,292.15,292.15
+Asia,Yemen,2024-08-04,11945.0,0.0,0.0,2159.0,0.0,0.0,312.509,YEM,sanaa,sanaa,overcast clouds,290.44,290.44
+Africa,Zambia,2024-08-04,349842.0,18.0,2.571,4077.0,0.0,0.0,17359.357,ZMB,lusaka,lusaka,broken clouds,292.39,292.39
+Africa,Zimbabwe,2024-08-04,266386.0,0.0,0.0,5740.0,0.0,0.0,16577.57,ZWE,harare,harare,broken clouds,295.27,295.27

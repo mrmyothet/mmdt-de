@@ -1,0 +1,235 @@
+continent,location,last_updated_date,total_cases,new_cases,new_cases_smoothed,total_deaths,new_deaths,new_deaths_smoothed,total_cases_per_million,iso3,capital
+Asia,Afghanistan,2024-08-04,235214.0,0.0,0.0,7998.0,0.0,0.0,5796.468,AFG,Kabul
+Europe,Albania,2024-08-04,335047.0,0.0,0.0,3605.0,0.0,0.0,118491.02,ALB,Tirana
+Africa,Algeria,2024-08-04,272139.0,18.0,2.571,6881.0,0.0,0.0,5984.05,DZA,Algiers
+Oceania,American Samoa,2024-08-04,8359.0,0.0,0.0,34.0,0.0,0.0,172831.6,ASM,Pago Pago
+Europe,Andorra,2024-08-04,48015.0,0.0,0.0,159.0,0.0,0.0,602280.44,AND,Andorra la Vella
+Africa,Angola,2024-08-04,107481.0,0.0,0.0,1937.0,0.0,0.0,3016.162,AGO,Luanda
+North America,Anguilla,2024-08-04,3904.0,0.0,0.0,12.0,0.0,0.0,274890.88,AIA,The Valley
+North America,Antigua and Barbuda,2024-08-04,9106.0,0.0,0.0,146.0,0.0,0.0,98071.1,ATG,St. John's
+South America,Argentina,2024-08-04,10101218.0,54.0,7.714,130663.0,1.0,0.143,222455.06,ARG,Buenos Aires
+Asia,Armenia,2024-08-04,452273.0,0.0,0.0,8777.0,0.0,0.0,156991.11,ARM,Yerevan
+North America,Aruba,2024-08-04,44224.0,0.0,0.0,292.0,0.0,0.0,410271.62,ABW,Oranjestad
+Oceania,Australia,2024-08-04,11861161.0,0.0,0.0,25236.0,0.0,0.0,452699.0,AUS,Canberra
+Europe,Austria,2024-08-04,6082444.0,15.0,2.143,22534.0,0.0,0.0,671004.9,AUT,Vienna
+Asia,Azerbaijan,2024-08-04,835757.0,63.0,9.0,10353.0,0.0,0.0,81178.445,AZE,Baku
+North America,Bahamas,2024-08-04,39127.0,0.0,0.0,849.0,0.0,0.0,98421.81,BHS,Nassau
+Asia,Bahrain,2024-08-04,696614.0,0.0,0.0,1536.0,0.0,0.0,454276.25,BHR,Manama
+Asia,Bangladesh,2024-08-04,2051348.0,40.0,5.714,29499.0,0.0,0.0,12110.572,BGD,Dhaka
+North America,Barbados,2024-08-04,108582.0,57.0,8.143,593.0,0.0,0.0,384600.7,BRB,Bridgetown
+Europe,Belarus,2024-08-04,994037.0,0.0,0.0,7118.0,0.0,0.0,108362.68,BLR,Minsk
+Europe,Belgium,2024-08-04,4872829.0,1277.0,182.429,34339.0,0.0,0.0,418562.72,BEL,Brussels
+North America,Belize,2024-08-04,71414.0,0.0,0.0,688.0,0.0,0.0,177319.92,BLZ,Belmopan
+Africa,Benin,2024-08-04,28036.0,0.0,0.0,163.0,0.0,0.0,2037.573,BEN,Porto-Novo
+North America,Bermuda,2024-08-04,18860.0,0.0,0.0,165.0,0.0,0.0,291175.2,BMU,Hamilton
+Asia,Bhutan,2024-08-04,62697.0,0.0,0.0,21.0,0.0,0.0,80286.07,BTN,Thimphu
+South America,Bolivia,2024-08-04,1212147.0,2.0,0.286,22387.0,0.0,0.0,100366.93,BOL,Sucre
+North America,Bonaire Sint Eustatius and Saba,2024-08-04,11922.0,0.0,0.0,41.0,0.0,0.0,416067.56,BES,Kralendijk
+Europe,Bosnia and Herzegovina,2024-08-04,403666.0,0.0,0.0,16392.0,0.0,0.0,125956.49,BIH,Sarajevo
+Africa,Botswana,2024-08-04,330696.0,0.0,0.0,2801.0,0.0,0.0,135536.98,BWA,Gaborone
+South America,Brazil,2024-08-04,37511921.0,0.0,0.0,702116.0,0.0,0.0,178367.94,BRA,Brasilia
+North America,British Virgin Islands,2024-08-04,7557.0,0.0,0.0,64.0,0.0,0.0,197084.3,VGB,Road Town
+Asia,Brunei,2024-08-04,347723.0,288.0,41.143,179.0,1.0,0.143,763598.6,BRN,Bandar Seri Begawan
+Europe,Bulgaria,2024-08-04,1329988.0,257.0,36.714,38700.0,0.0,0.0,194845.4,BGR,Sofia
+Africa,Burkina Faso,2024-08-04,22139.0,0.0,0.0,400.0,0.0,0.0,983.56,BFA,Ouagadougou
+Africa,Burundi,2024-08-04,54569.0,0.0,0.0,15.0,0.0,0.0,4096.433,BDI,Bujumbura
+Asia,Cambodia,2024-08-04,139319.0,6.0,0.857,3056.0,0.0,0.0,8099.134,KHM,Phnom Penh
+Africa,Cameroon,2024-08-04,125246.0,0.0,0.0,1974.0,0.0,0.0,4532.516,CMR,Yaounde
+North America,Canada,2024-08-04,4819055.0,38.0,5.429,55282.0,0.0,0.0,124134.43,CAN,Ottawa
+Africa,Cape Verde,2024-08-04,64474.0,0.0,0.0,417.0,0.0,0.0,124048.1,CPV,Praia
+North America,Cayman Islands,2024-08-04,31472.0,0.0,0.0,37.0,0.0,0.0,439497.84,CYM,George Town
+Africa,Central African Republic,2024-08-04,15441.0,0.0,0.0,113.0,0.0,0.0,3028.812,CAF,Bangui
+Africa,Chad,2024-08-04,7702.0,0.0,0.0,194.0,0.0,0.0,417.332,TCD,N'Djamena
+South America,Chile,2024-08-04,5401126.0,100.0,14.286,62730.0,0.0,0.0,276229.6,CHL,Santiago
+Asia,China,2024-08-04,99373219.0,2087.0,298.143,122304.0,15.0,2.143,69726.805,CHN,Beijing
+South America,Colombia,2024-08-04,6391876.0,976.0,139.429,142727.0,0.0,0.0,123543.3,COL,Bogotá
+Africa,Comoros,2024-08-04,9109.0,0.0,0.0,160.0,0.0,0.0,10919.549,COM,Moroni
+Africa,Congo,2024-08-04,25227.0,0.0,0.0,389.0,0.0,0.0,4180.042,COG,Brazzaville
+Oceania,Cook Islands,2024-08-04,7345.0,1.0,0.143,2.0,0.0,0.0,498067.4,COK,Avarua
+North America,Costa Rica,2024-08-04,1234701.0,0.0,0.0,9372.0,0.0,0.0,242966.97,CRI,San Jose
+Africa,Cote d'Ivoire,2024-08-04,88434.0,0.0,0.0,835.0,0.0,0.0,2909.492,CIV,Yamoussoukro
+Europe,Croatia,2024-08-04,1317144.0,0.0,0.0,18752.0,0.0,0.0,337121.47,HRV,Zagreb
+North America,Cuba,2024-08-04,1113662.0,0.0,0.0,8530.0,0.0,0.0,100694.4,CUB,Havana
+North America,Curacao,2024-08-04,45883.0,0.0,0.0,305.0,0.0,0.0,247546.55,CUW,Willemstad
+Europe,Cyprus,2024-08-04,696410.0,0.0,0.0,1451.0,0.0,0.0,523075.38,CYP,Nicosia
+Europe,Czechia,2024-08-12,4761919.0,571.0,81.571,43509.0,1.0,0.143,446155.97,CZE,Prague
+Africa,Democratic Republic of Congo,2024-08-04,101009.0,0.0,0.0,1474.0,0.0,0.0,986.445,COD,Kinshasa
+Europe,Denmark,2024-08-04,3435679.0,0.0,0.0,9693.0,0.0,0.0,582032.56,DNK,Copenhagen
+Africa,Djibouti,2024-08-04,15690.0,0.0,0.0,189.0,0.0,0.0,13798.259,DJI,Djibouti
+North America,Dominica,2024-08-04,16047.0,0.0,0.0,74.0,0.0,0.0,240044.88,DMA,Roseau
+North America,Dominican Republic,2024-08-04,661103.0,0.0,0.0,4384.0,0.0,0.0,58865.52,DOM,Santo Domingo
+Asia,East Timor,2024-08-04,23460.0,0.0,0.0,138.0,0.0,0.0,17132.854,TLS,Dili
+South America,Ecuador,2024-08-04,1077445.0,157.0,22.429,36050.0,0.0,0.0,60449.453,ECU,Quito
+Africa,Egypt,2024-08-04,516023.0,0.0,0.0,24830.0,0.0,0.0,4582.054,EGY,Cairo
+North America,El Salvador,2024-08-04,201920.0,3.0,0.429,4230.0,0.0,0.0,32151.248,SLV,San Salvador
+Africa,Equatorial Guinea,2024-08-04,17130.0,0.0,0.0,183.0,0.0,0.0,9497.935,GNQ,Malabo
+Africa,Eritrea,2024-08-04,10189.0,0.0,0.0,103.0,0.0,0.0,2988.457,ERI,Asmara
+Europe,Estonia,2024-08-12,610471.0,0.0,0.0,2998.0,0.0,0.0,452169.94,EST,Tallinn
+Africa,Eswatini,2024-08-04,75356.0,0.0,0.0,1427.0,0.0,0.0,61821.89,SWZ,Mbabane
+Africa,Ethiopia,2024-08-04,501193.0,0.0,0.0,7574.0,0.0,0.0,3997.255,ETH,Addis Ababa
+South America,Falkland Islands,2024-08-04,1923.0,0.0,0.0,0.0,0.0,0.0,547083.94,FLK,Stanley
+Europe,Faroe Islands,2024-08-04,34658.0,0.0,0.0,28.0,0.0,0.0,641351.6,FRO,Torshavn
+Oceania,Fiji,2024-08-04,69047.0,0.0,0.0,885.0,0.0,0.0,75097.78,FJI,Suva
+Europe,Finland,2024-08-04,1499712.0,0.0,0.0,11466.0,0.0,0.0,269281.97,FIN,Helsinki
+Europe,France,2024-08-04,38997490.0,,,168091.0,,,606706.0,FRA,Paris
+South America,French Guiana,2024-08-04,98041.0,0.0,0.0,413.0,0.0,0.0,328644.84,GUF,Cayenne
+Oceania,French Polynesia,2024-08-04,79387.0,47.0,6.714,650.0,0.0,0.0,283131.66,PYF,Papeete
+Africa,Gabon,2024-08-04,49051.0,0.0,0.0,307.0,0.0,0.0,20179.352,GAB,Libreville
+Africa,Gambia,2024-08-04,12627.0,0.0,0.0,372.0,0.0,0.0,4789.353,GMB,Banjul
+Asia,Georgia,2024-08-04,1863615.0,0.0,0.0,17150.0,0.0,0.0,491099.22,GEO,Tbilisi
+Europe,Germany,2024-08-04,38437756.0,,,174979.0,,,457123.1,DEU,Berlin
+Africa,Ghana,2024-08-04,172062.0,0.0,0.0,1462.0,0.0,0.0,5190.54,GHA,Accra
+Europe,Gibraltar,2024-08-04,20550.0,0.0,0.0,113.0,0.0,0.0,546092.3,GIB,Gibraltar
+Europe,Greece,2024-08-04,5673681.0,5818.0,831.143,39258.0,40.0,5.714,544892.3,GRC,Athens
+North America,Greenland,2024-08-04,11971.0,0.0,0.0,21.0,0.0,0.0,213714.42,GRL,Nuuk
+North America,Grenada,2024-08-04,19693.0,0.0,0.0,238.0,0.0,0.0,168419.88,GRD,St. George's
+North America,Guadeloupe,2024-08-04,203235.0,0.0,0.0,1021.0,0.0,0.0,528290.6,GLP,Basse-Terre
+Oceania,Guam,2024-08-04,52287.0,0.0,0.0,419.0,0.0,0.0,316520.7,GUM,Hagatna
+North America,Guatemala,2024-08-04,1250371.0,1.0,0.143,20203.0,0.0,0.0,70057.125,GTM,Guatemala City
+Europe,Guernsey,2024-08-04,35326.0,0.0,0.0,67.0,0.0,0.0,554150.6,GGY,St Peter Port
+Africa,Guinea,2024-08-04,38572.0,0.0,0.0,468.0,0.0,0.0,2744.335,GIN,Conakry
+Africa,Guinea-Bissau,2024-08-04,9614.0,0.0,0.0,177.0,0.0,0.0,4566.056,GNB,Bissau
+South America,Guyana,2024-08-04,74443.0,4.0,0.571,1302.0,0.0,0.0,90603.38,GUY,Georgetown
+North America,Haiti,2024-08-04,34456.0,0.0,0.0,860.0,0.0,0.0,2995.235,HTI,Port-au-Prince
+North America,Honduras,2024-08-04,472896.0,1.0,0.143,11114.0,0.0,0.0,45193.176,HND,Tegucigalpa
+Asia,Hong Kong,2024-08-10,,,,,,,,HKG,Hong Kong
+Europe,Hungary,2024-08-04,2230800.0,143.0,20.429,49053.0,0.0,0.0,230352.08,HUN,Budapest
+Europe,Iceland,2024-08-04,210374.0,27.0,3.857,186.0,0.0,0.0,553080.2,ISL,Reykjavik
+Asia,India,2024-08-12,45041748.0,313.0,44.714,533623.0,0.0,0.0,31598.86,IND,New Delhi
+Asia,Indonesia,2024-08-04,6829399.0,46.0,6.571,162059.0,0.0,0.0,24493.01,IDN,Jakarta
+Asia,Iran,2024-08-04,7627863.0,0.0,0.0,146837.0,0.0,0.0,85204.44,IRN,Tehran
+Asia,Iraq,2024-08-04,2465545.0,0.0,0.0,25375.0,0.0,0.0,55945.402,IRQ,Baghdad
+Europe,Ireland,2024-08-04,1745088.0,761.0,108.714,9744.0,9.0,1.286,341503.62,IRL,Dublin
+Europe,Isle of Man,2024-08-04,38008.0,0.0,0.0,116.0,0.0,0.0,451701.84,IMN,"Douglas, Isle of Man"
+Asia,Israel,2024-08-04,4841558.0,0.0,0.0,12707.0,0.0,0.0,531855.56,ISR,Jerusalem
+Europe,Italy,2024-08-07,26781078.0,6350.0,907.143,197307.0,6.0,0.857,449202.94,ITA,Rome
+North America,Jamaica,2024-08-04,157181.0,12.0,1.714,3611.0,0.0,0.0,55361.973,JAM,Kingston
+Asia,Japan,2024-08-04,33803572.0,0.0,0.0,74694.0,0.0,0.0,270433.8,JPN,Tokyo
+Europe,Jersey,2024-08-04,66391.0,0.0,0.0,161.0,0.0,0.0,641502.3,JEY,Saint Helier
+Asia,Jordan,2024-08-04,1746997.0,0.0,0.0,14122.0,0.0,0.0,155202.16,JOR,Amman
+Asia,Kazakhstan,2024-08-04,1504370.0,0.0,0.0,19072.0,0.0,0.0,75088.555,KAZ,Astana
+Africa,Kenya,2024-08-04,344106.0,0.0,0.0,5689.0,0.0,0.0,6342.68,KEN,Nairobi
+Oceania,Kiribati,2024-08-04,5085.0,0.0,0.0,24.0,0.0,0.0,38971.19,KIR,Tarawa
+Asia,Kuwait,2024-08-04,667290.0,0.0,0.0,2570.0,0.0,0.0,145394.48,KWT,Kuwait City
+Asia,Kyrgyzstan,2024-08-04,88953.0,0.0,0.0,1024.0,0.0,0.0,12788.335,KGZ,Bishkek
+Asia,Laos,2024-08-04,219060.0,0.0,0.0,671.0,0.0,0.0,28979.996,LAO,Vientiane
+Europe,Latvia,2024-08-04,977765.0,0.0,0.0,7475.0,0.0,0.0,519795.25,LVA,Riga
+Asia,Lebanon,2024-08-04,1239904.0,0.0,0.0,10947.0,0.0,0.0,215842.16,LBN,Beirut
+Africa,Lesotho,2024-08-04,36138.0,0.0,0.0,709.0,0.0,0.0,15807.624,LSO,Maseru
+Africa,Liberia,2024-08-04,7930.0,0.0,0.0,294.0,0.0,0.0,1475.817,LBR,Monrovia
+Africa,Libya,2024-08-04,507269.0,0.0,0.0,6437.0,0.0,0.0,70221.87,LBY,Tripolis
+Europe,Liechtenstein,2024-08-04,21588.0,0.0,0.0,89.0,0.0,0.0,548810.25,LIE,Vaduz
+Europe,Lithuania,2024-08-14,1369355.0,807.0,115.286,9810.0,0.0,0.0,486117.47,LTU,Vilnius
+Europe,Luxembourg,2024-08-04,393542.0,190.0,27.143,1000.0,0.0,0.0,602376.2,LUX,Luxembourg
+Africa,Madagascar,2024-08-04,68567.0,0.0,0.0,1428.0,0.0,0.0,2252.732,MDG,Antananarivo
+Africa,Malawi,2024-08-04,89168.0,0.0,0.0,2686.0,0.0,0.0,4335.124,MWI,Lilongwe
+Asia,Malaysia,2024-08-14,5309410.0,1085.0,155.0,37351.0,0.0,0.0,153028.81,MYS,Kuala Lumpur
+Asia,Maldives,2024-08-04,186694.0,0.0,0.0,316.0,0.0,0.0,356207.4,MDV,Male
+Africa,Mali,2024-08-04,33166.0,0.0,0.0,743.0,0.0,0.0,1437.46,MLI,Bamako
+Europe,Malta,2024-08-04,122796.0,80.0,11.429,922.0,1.0,0.143,232482.77,MLT,Valletta
+Oceania,Marshall Islands,2024-08-04,16297.0,0.0,0.0,17.0,0.0,0.0,406469.78,MHL,Majuro
+North America,Martinique,2024-08-04,230354.0,0.0,0.0,1104.0,0.0,0.0,659169.44,MTQ,Fort-de-France
+Africa,Mauritania,2024-08-04,63872.0,0.0,0.0,997.0,0.0,0.0,13100.216,MRT,Nouakchott
+Africa,Mauritius,2024-08-04,328167.0,0.0,0.0,1073.0,0.0,0.0,257157.16,MUS,Port Louis
+Africa,Mayotte,2024-08-04,42027.0,0.0,0.0,187.0,0.0,0.0,137667.97,MYT,Mamoudzou
+North America,Mexico,2024-08-04,7619458.0,340.0,48.571,334551.0,0.0,0.0,59243.242,MEX,Ciudad de México
+Oceania,Micronesia (country),2024-08-04,31765.0,0.0,0.0,65.0,0.0,0.0,283302.4,FSM,Palikir
+Europe,Moldova,2024-08-04,637520.0,743.0,106.143,12245.0,2.0,0.286,209711.42,MDA,Chisinau
+Europe,Monaco,2024-08-04,17181.0,0.0,0.0,67.0,0.0,0.0,441115.3,MCO,Monaco
+Asia,Mongolia,2024-08-04,1011489.0,0.0,0.0,2136.0,0.0,0.0,298725.5,MNG,Ulan Bator
+Europe,Montenegro,2024-08-04,251280.0,0.0,0.0,2654.0,0.0,0.0,408818.03,MNE,Podgorica
+North America,Montserrat,2024-08-04,1403.0,0.0,0.0,8.0,0.0,0.0,313449.5,MSR,Plymouth
+Africa,Morocco,2024-08-04,1279115.0,0.0,0.0,16305.0,0.0,0.0,34265.92,MAR,Rabat
+Africa,Mozambique,2024-08-04,233843.0,0.0,0.0,2252.0,0.0,0.0,7160.744,MOZ,Maputo
+Asia,Myanmar,2024-08-04,642885.0,26.0,3.714,19494.0,0.0,0.0,11959.141,MMR,Nay Pyi Taw
+Africa,Namibia,2024-08-04,172533.0,0.0,0.0,4108.0,0.0,0.0,59706.86,NAM,Windhoek
+Oceania,Nauru,2024-08-04,5393.0,0.0,0.0,1.0,0.0,0.0,456221.97,NRU,Yaren
+Asia,Nepal,2024-08-04,1003450.0,0.0,0.0,12031.0,0.0,0.0,33768.65,NPL,Kathmandu
+Europe,Netherlands,2024-08-04,8640008.0,383.0,54.714,22986.0,0.0,0.0,482562.8,NLD,Amsterdam
+Oceania,New Caledonia,2024-08-04,80163.0,0.0,0.0,314.0,0.0,0.0,279186.16,NCL,Noumea
+Oceania,New Zealand,2024-08-11,2639048.0,1730.0,247.143,4284.0,16.0,2.286,514260.6,NZL,Wellington
+North America,Nicaragua,2024-08-04,16185.0,2.0,0.286,245.0,0.0,0.0,2404.667,NIC,Managua
+Africa,Niger,2024-08-04,9518.0,0.0,0.0,315.0,0.0,0.0,376.028,NER,Niamey
+Africa,Nigeria,2024-08-04,267188.0,0.0,0.0,3155.0,0.0,0.0,1197.342,NGA,Abuja
+Oceania,Niue,2024-08-04,1074.0,0.0,0.0,0.0,0.0,0.0,582429.5,NIU,Alofi
+Asia,North Korea,2024-08-04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PRK,Pyongyang
+Europe,North Macedonia,2024-08-04,350924.0,116.0,16.571,9978.0,0.0,0.0,190695.11,MKD,Skopje
+Oceania,Northern Mariana Islands,2024-08-04,14912.0,31.0,4.429,41.0,0.0,0.0,323463.7,MNP,Saipan
+Europe,Norway,2024-08-04,1512647.0,745.0,106.429,5732.0,0.0,0.0,277204.28,NOR,Oslo
+Asia,Oman,2024-08-04,399449.0,0.0,0.0,4628.0,0.0,0.0,84446.055,OMN,Muscat
+Asia,Pakistan,2024-08-04,1580631.0,0.0,0.0,30656.0,0.0,0.0,6485.952,PAK,Islamabad
+Oceania,Palau,2024-08-04,6372.0,0.0,0.0,10.0,0.0,0.0,358299.6,PLW,Melekeok
+Asia,Palestine,2024-08-04,703228.0,0.0,0.0,5708.0,0.0,0.0,132552.62,PSE,East Jerusalem
+North America,Panama,2024-08-04,1044821.0,0.0,0.0,8748.0,0.0,0.0,237417.66,PAN,Panama City
+Oceania,Papua New Guinea,2024-08-04,46864.0,0.0,0.0,670.0,0.0,0.0,4593.08,PNG,Port Moresby
+South America,Paraguay,2024-08-04,735759.0,0.0,0.0,19880.0,0.0,0.0,108832.664,PRY,Asuncion
+South America,Peru,2024-08-04,4526977.0,0.0,0.0,220975.0,0.0,0.0,135232.81,PER,Lima
+Asia,Philippines,2024-08-04,4140383.0,0.0,0.0,66864.0,0.0,0.0,36330.51,PHL,Manila
+Oceania,Pitcairn,2024-08-04,4.0,0.0,0.0,0.0,0.0,0.0,88888.89,PCN,Adamstown
+Europe,Poland,2024-08-04,6670799.0,2463.0,351.857,120726.0,4.0,0.571,173783.28,POL,Warsaw
+Europe,Portugal,2024-08-04,5664109.0,1055.0,150.714,28809.0,50.0,7.143,543733.1,PRT,Lisbon
+North America,Puerto Rico,2024-08-04,1252713.0,0.0,0.0,5938.0,0.0,0.0,386523.97,PRI,San Juan
+Asia,Qatar,2024-08-04,514524.0,0.0,0.0,690.0,0.0,0.0,177884.27,QAT,Doha
+Africa,Reunion,2024-08-04,494595.0,0.0,0.0,921.0,0.0,0.0,567494.2,REU,Saint-Denis
+Europe,Romania,2024-08-04,3541619.0,4633.0,661.857,68825.0,6.0,0.857,184779.06,ROU,Bucharest
+Europe,Russia,2024-08-04,24268728.0,7777.0,1111.0,403188.0,10.0,1.429,166703.84,RUS,Moscow
+Africa,Rwanda,2024-08-04,133264.0,0.0,0.0,1468.0,0.0,0.0,9762.196,RWA,Kigali
+North America,Saint Barthelemy,2024-08-04,5507.0,0.0,0.0,5.0,0.0,0.0,503014.25,BLM,Gustavia
+Africa,Saint Helena,2024-08-04,2166.0,0.0,0.0,0.0,0.0,0.0,403427.1,SHN,Jamestown
+North America,Saint Kitts and Nevis,2024-08-04,6607.0,0.0,0.0,46.0,0.0,0.0,141383.66,KNA,Basseterre
+North America,Saint Lucia,2024-08-04,30282.0,0.0,0.0,410.0,0.0,0.0,169368.1,LCA,Castries
+North America,Saint Martin (French part),2024-08-04,12324.0,0.0,0.0,46.0,0.0,0.0,426465.5,MAF,Marigot
+North America,Saint Pierre and Miquelon,2024-08-04,3426.0,0.0,0.0,2.0,0.0,0.0,594791.7,SPM,Saint-Pierre
+North America,Saint Vincent and the Grenadines,2024-08-04,9674.0,0.0,0.0,124.0,0.0,0.0,94785.52,VCT,Kingstown
+Oceania,Samoa,2024-08-04,17057.0,0.0,0.0,31.0,0.0,0.0,79235.75,WSM,Apia
+Europe,San Marino,2024-08-04,25292.0,0.0,0.0,126.0,0.0,0.0,741418.25,SMR,San Marino
+Africa,Sao Tome and Principe,2024-08-04,6771.0,0.0,0.0,80.0,0.0,0.0,29918.74,STP,Sao Tome
+Asia,Saudi Arabia,2024-08-04,841469.0,0.0,0.0,9646.0,0.0,0.0,26152.596,SAU,Riyadh
+Africa,Senegal,2024-08-04,89485.0,0.0,0.0,1971.0,0.0,0.0,5069.656,SEN,Dakar
+Europe,Serbia,2024-08-04,2583470.0,0.0,0.0,18057.0,0.0,0.0,380413.34,SRB,Belgrade
+Africa,Seychelles,2024-08-04,51886.0,0.0,0.0,172.0,0.0,0.0,413328.88,SYC,Victoria
+Africa,Sierra Leone,2024-08-04,7979.0,0.0,0.0,125.0,0.0,0.0,964.019,SLE,Freetown
+Asia,Singapore,2024-08-04,3006155.0,0.0,0.0,2024.0,0.0,0.0,532073.56,SGP,Singapur
+North America,Sint Maarten (Dutch part),2024-08-04,11051.0,0.0,0.0,92.0,0.0,0.0,262101.84,SXM,Philipsburg
+Europe,Slovakia,2024-08-04,1878002.0,61.0,8.714,21227.0,1.0,0.143,343127.25,SVK,Bratislava
+Europe,Slovenia,2024-08-04,1356582.0,148.0,21.143,10083.0,4.0,0.571,641340.2,SVN,Ljubljana
+Oceania,Solomon Islands,2024-08-04,25954.0,0.0,0.0,199.0,0.0,0.0,33228.562,SLB,Honiara
+Africa,Somalia,2024-08-04,27334.0,0.0,0.0,1361.0,0.0,0.0,1535.455,SOM,Mogadishu
+Africa,South Africa,2024-08-04,4072765.0,0.0,0.0,102595.0,0.0,0.0,65291.246,ZAF,Pretoria
+Asia,South Korea,2024-08-04,34571873.0,0.0,0.0,35934.0,0.0,0.0,667636.06,KOR,Seoul
+Africa,South Sudan,2024-08-04,18823.0,0.0,0.0,147.0,0.0,0.0,1707.894,SSD,Juba
+Europe,Spain,2024-08-04,13980340.0,,,121852.0,,,292302.16,ESP,Madrid
+Asia,Sri Lanka,2024-08-04,672798.0,1.0,0.143,16907.0,0.0,0.0,29463.502,LKA,Colombo
+Africa,Sudan,2024-08-04,63993.0,0.0,0.0,5046.0,0.0,0.0,1295.842,SDN,Khartoum
+South America,Suriname,2024-08-04,82501.0,0.0,0.0,1406.0,0.0,0.0,132388.6,SUR,Paramaribo
+Europe,Sweden,2024-08-04,2755181.0,630.0,90.0,27399.0,28.0,4.0,262715.12,SWE,Stockholm
+Europe,Switzerland,2024-08-04,4457868.0,426.0,60.857,14170.0,0.0,0.0,507026.47,CHE,Bern
+Asia,Syria,2024-08-04,57423.0,0.0,0.0,3163.0,0.0,0.0,2556.432,SYR,Damascus
+Asia,Tajikistan,2024-08-04,17786.0,0.0,0.0,125.0,0.0,0.0,1746.769,TJK,Dushanbe
+Africa,Tanzania,2024-08-04,43230.0,0.0,0.0,846.0,0.0,0.0,668.039,TZA,Dodoma
+Asia,Thailand,2024-08-04,4799180.0,560.0,80.0,34715.0,1.0,0.143,66901.21,THA,Bangkok
+Africa,Togo,2024-08-04,39530.0,0.0,0.0,290.0,0.0,0.0,4348.858,TGO,Lome
+Oceania,Tokelau,2024-08-04,80.0,0.0,0.0,0.0,0.0,0.0,34602.074,TKL,
+Oceania,Tonga,2024-08-04,16976.0,0.0,0.0,12.0,0.0,0.0,161594.62,TON,Nuku'alofa
+North America,Trinidad and Tobago,2024-08-04,191496.0,0.0,0.0,4390.0,0.0,0.0,128012.02,TTO,Port of Spain
+Africa,Tunisia,2024-08-04,1153361.0,0.0,0.0,29423.0,0.0,0.0,95167.016,TUN,Tunis
+Asia,Turkey,2024-08-04,17004718.0,0.0,0.0,101419.0,0.0,0.0,195325.25,TUR,Ankara
+Asia,Turkmenistan,2024-08-04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,TKM,Ashgabat
+North America,Turks and Caicos Islands,2024-08-04,6805.0,0.0,0.0,40.0,0.0,0.0,148357.28,TCA,Cockburn Town
+Oceania,Tuvalu,2024-08-04,2943.0,0.0,0.0,1.0,0.0,0.0,293947.25,TUV,Funafuti
+Africa,Uganda,2024-08-04,172154.0,0.0,0.0,3632.0,0.0,0.0,3638.641,UGA,Kampala
+Europe,Ukraine,2024-08-04,5532777.0,171.0,24.429,109920.0,0.0,0.0,134785.47,UKR,Kyiv
+Asia,United Arab Emirates,2024-08-04,1067030.0,0.0,0.0,2349.0,0.0,0.0,104180.94,ARE,Abu Dhabi
+Europe,United Kingdom,2024-08-04,24974629.0,3400.0,485.714,232112.0,0.0,0.0,366308.0,GBR,London
+North America,United States,2024-08-04,103436829.0,,,1193165.0,619.0,88.429,302859.5,USA,Washington
+North America,United States Virgin Islands,2024-08-04,25389.0,0.0,0.0,132.0,0.0,0.0,293443.22,VIR,Charlotte Amalie
+South America,Uruguay,2024-08-04,1041346.0,15.0,2.143,7682.0,0.0,0.0,307099.0,URY,Montevideo
+Asia,Uzbekistan,2024-08-04,175081.0,0.0,0.0,1016.0,0.0,0.0,5011.054,UZB,Tashkent
+Oceania,Vanuatu,2024-08-04,12019.0,0.0,0.0,14.0,0.0,0.0,38391.758,VUT,Port Vila
+Europe,Vatican,2024-08-04,26.0,0.0,0.0,0.0,0.0,0.0,50682.26,VAT,Vatican City
+South America,Venezuela,2024-08-04,552695.0,0.0,0.0,5856.0,0.0,0.0,19590.072,VEN,Caracas
+Asia,Vietnam,2024-08-04,11624000.0,0.0,0.0,43206.0,0.0,0.0,116612.4,VNM,Hanoi
+Oceania,Wallis and Futuna,2024-08-04,3760.0,0.0,0.0,9.0,0.0,0.0,326928.1,WLF,Mata Utu
+Asia,Yemen,2024-08-04,11945.0,0.0,0.0,2159.0,0.0,0.0,312.509,YEM,Sanaa
+Africa,Zambia,2024-08-04,349842.0,18.0,2.571,4077.0,0.0,0.0,17359.357,ZMB,Lusaka
+Africa,Zimbabwe,2024-08-04,266386.0,0.0,0.0,5740.0,0.0,0.0,16577.57,ZWE,Harare

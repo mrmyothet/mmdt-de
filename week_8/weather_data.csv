@@ -1,0 +1,235 @@
+name,description,main.temp_max,main.temp_min
+Kabul,clear sky,285.62,285.62
+Tirana,clear sky,284.64,284.64
+Algiers,clear sky,293.05,293.05
+Pago Pago,overcast clouds,301.12,301.12
+Andorra la Vella,overcast clouds,277.27,276.76
+Luanda,broken clouds,300.83,300.83
+The Valley,broken clouds,299.4,299.4
+St. John's,overcast clouds,275.53,272.9
+Buenos Aires,clear sky,303.68,301.55
+Yerevan,broken clouds,281.24,281.24
+Oranjestad,broken clouds,299.29,299.29
+Canberra,overcast clouds,292.64,289.76
+Vienna,clear sky,284.74,282.52
+Baku,broken clouds,281.18,281.18
+Nassau,clear sky,287.43,283.34
+Manama,clear sky,297.03,297.03
+Dhaka,haze,302.14,302.14
+Bridgetown,few clouds,303.42,303.42
+Minsk,few clouds,278.65,278.65
+Brussels,clear sky,291.37,290.23
+Belmopan,clear sky,301.53,301.53
+Porto-Novo,broken clouds,304.35,304.35
+Hamilton,clear sky,291.81,290.06
+Thimphu,clear sky,276.13,276.13
+Sucre,broken clouds,289.29,289.29
+Kralendijk,broken clouds,305.14,305.14
+Sarajevo,clear sky,284.1,284.1
+Gaborone,broken clouds,298.87,298.87
+Brasília,scattered clouds,303.5,301.66
+Road Town,broken clouds,301.17,301.17
+Brunei Town,broken clouds,300.14,299.77
+Sofia,clear sky,278.98,278.98
+Ouagadougou,scattered clouds,314.03,314.03
+Bujumbura,overcast clouds,294.41,294.41
+Phnom Penh,few clouds,302.1,302.1
+Yaoundé,broken clouds,301.83,301.83
+Ottawa,overcast clouds,282.68,279.88
+Praia,clear sky,295.43,295.43
+George Town,few clouds,303.12,300.87
+Bangui,overcast clouds,299.91,299.91
+N'Djamena,scattered clouds,312.59,312.59
+Santiago,clear sky,298.84,298.84
+Beijing,clear sky,281.09,281.09
+Bogota,broken clouds,289.88,289.88
+Moroni,moderate rain,300.81,300.81
+Brazzaville,overcast clouds,304.03,304.03
+Avarua,few clouds,298.18,298.18
+San Jose,broken clouds,284.17,280.01
+Yamoussoukro,moderate rain,300.99,300.99
+Donji grad,clear sky,283.97,283.97
+Havana,clear sky,298.44,298.39
+Willemstad,broken clouds,299.74,299.74
+Nicosia,broken clouds,282.98,282.98
+Prague,clear sky,285.32,283.87
+Kinshasa,overcast clouds,304.04,304.04
+Copenhagen,clear sky,283.34,282.67
+Djibouti,broken clouds,297.58,297.58
+Roseau,light rain,299.64,299.64
+Santo Domingo,few clouds,301.95,300.89
+Dili,overcast clouds,299.94,299.94
+Quito,light rain,290.68,290.68
+Cairo,clear sky,293.18,293.18
+San Salvador,few clouds,301.41,301.41
+Malabo,light rain,301.48,301.48
+Asmara,light rain,291.6,291.6
+Tallinn,clear sky,278.34,277.01
+Mbabane,light rain,289.31,289.31
+Addis Ababa,light rain,288.08,288.08
+Stanley,clear sky,283.43,283.16
+Tórshavn,overcast clouds,280.81,280.81
+Suva,broken clouds,297.86,297.86
+Helsinki,clear sky,279.36,277.65
+Paris,clear sky,291.56,290.49
+Cayenne,broken clouds,301.17,301.17
+Papeete,clear sky,298.11,298.1
+Libreville,scattered clouds,301.17,301.17
+City of Banjul,clear sky,293.01,293.01
+Tbilisi,overcast clouds,279.99,279.99
+Berlin,clear sky,286.52,285.36
+Accra,overcast clouds,306.61,306.61
+Gibraltar,broken clouds,290.12,288.71
+Athens,few clouds,282.72,280.43
+Nuuk,light snow,265.49,264.75
+St. George's,few clouds,301.66,301.66
+Arrondissement de la Basse-Terre,light rain,300.37,300.37
+Hagåtña,clear sky,300.62,299.42
+Guatemala City,few clouds,295.06,294.89
+St Peter Port,few clouds,286.76,286.76
+Conakry,few clouds,304.19,304.19
+Bissau,scattered clouds,305.38,305.38
+George Town,few clouds,303.12,300.87
+Port-au-Prince,few clouds,300.94,300.94
+Tegucigalpa,scattered clouds,298.57,298.4
+Hong Kong,clear sky,291.66,289.24
+Budapest,clear sky,282.6,280.41
+Reykjavik,overcast clouds,281.42,281.42
+New Delhi,haze,299.24,299.24
+Jakarta,few clouds,301.2,298.09
+Tehran,scattered clouds,295.14,294.66
+Baghdad,clear sky,299.1,299.1
+Dublin,clear sky,282.51,279.25
+Douglas,snow,273.88,272.8
+Jerusalem,clear sky,286.32,286.3
+Rome,broken clouds,293.57,290.68
+Kingston,clear sky,303.8,303.8
+Tokyo,scattered clouds,279.63,276.81
+Saint Helier,clear sky,287.58,287.58
+Amman,dust,288.9,287.2
+Nur-Sultan,clear sky,275.12,275.12
+Nairobi,light rain,292.98,292.98
+Tarawa,broken clouds,300.2,300.2
+Kuwait City,clear sky,294.74,294.14
+Bishkek,clear sky,284.26,284.26
+Vientiane,broken clouds,298.11,296.99
+Rīga,clear sky,282.19,282.19
+Beirut,broken clouds,288.36,286.56
+Maseru,broken clouds,293.97,293.97
+Monrovia,overcast clouds,301.89,301.89
+Tripoli,broken clouds,291.55,291.55
+Vaduz,clear sky,287.54,285.71
+Vilnius,broken clouds,278.38,277.44
+Luxembourg Province,clear sky,286.7,286.7
+Antananarivo,broken clouds,293.13,293.13
+Lilongwe,overcast clouds,292.9,292.9
+Kuala Lumpur,few clouds,300.9,300.9
+Malé,overcast clouds,302.01,302.01
+Bamako,few clouds,310.38,310.38
+Valletta,few clouds,288.14,287.45
+Majuro,overcast clouds,300.4,300.4
+Fort Royal,broken clouds,304.12,304.12
+Nouakchott,clear sky,301.11,301.11
+Port Louis,light rain,300.05,298.38
+Mamoudzou,few clouds,301.94,301.94
+Mexico City,few clouds,293.77,293.11
+Palikir,light rain,300.34,300.34
+Chișinău,clear sky,282.39,282.39
+Monaco,clear sky,286.73,284.49
+Ulaanbaatar,clear sky,269.22,269.22
+Podgorica,clear sky,285.03,285.03
+Plymouth,few clouds,286.1,282.24
+Rabat,scattered clouds,294.19,294.19
+Maputo,few clouds,296.33,296.33
+Nay Pyi Taw,clear sky,301.24,301.24
+Windhoek,overcast clouds,294.88,294.5
+Yaren,overcast clouds,299.89,299.89
+Kathmandu,few clouds,291.27,291.27
+Amsterdam,clear sky,290.31,288.62
+Noumea,broken clouds,297.61,297.61
+Wellington,overcast clouds,287.96,287.96
+Managua,scattered clouds,302.84,302.84
+Niamey,broken clouds,314.61,314.61
+Abuja,overcast clouds,308.45,308.45
+Alofi,light rain,300.09,300.09
+Pyongyang,clear sky,273.6,273.6
+Skopje,clear sky,285.97,285.97
+Saipan,scattered clouds,299.62,299.54
+Oslo,few clouds,279.6,279.6
+Muscat,clear sky,298.5,298.5
+Islamabad,broken clouds,292.37,292.37
+Melekeok,broken clouds,299.06,299.06
+East Jerusalem,clear sky,286.49,286.46
+Panama City,scattered clouds,305.89,304.02
+Port Moresby,light rain,297.83,297.83
+Asunción,few clouds,307.31,305.84
+Lima,few clouds,295.29,295.29
+Manila,broken clouds,300.44,299.29
+Adamstown,light rain,297.41,297.41
+Warsaw,clear sky,283.59,281.36
+Lisbon,moderate rain,289.57,288.22
+San Juan,clear sky,304.33,304.33
+Doha,clear sky,300.32,298.14
+Arrondissement de Saint-Denis,clear sky,291.56,290.49
+Bucharest,clear sky,282.2,280.85
+Moscow,overcast clouds,277.8,277.39
+Kigali,scattered clouds,295.86,295.86
+Gustavia,broken clouds,300.44,300.44
+Jamestown,clear sky,292.9,291.95
+Basseterre,few clouds,302.36,302.36
+Castries,few clouds,302.35,302.35
+Marigot,broken clouds,299.36,299.36
+Saint-Pierre,light rain,299.97,299.97
+Kingstown,broken clouds,304.75,304.75
+Apia,overcast clouds,301.99,301.99
+San Marino,clear sky,282.39,280.55
+São Tomé,overcast clouds,301.25,301.25
+Riyadh,few clouds,303.71,303.71
+Dakar,clear sky,294.5,294.5
+Belgrade,clear sky,282.22,280.59
+Hong Kong,clear sky,291.66,289.24
+Freetown,broken clouds,300.06,300.06
+Singapore,heavy intensity rain,297.12,296.98
+Philipsburg,broken clouds,300.88,300.88
+Bratislava,clear sky,282.96,282.35
+Ljubljana,clear sky,284.63,280.88
+Honiara,scattered clouds,299.0,299.0
+Mogadishu,broken clouds,300.49,300.49
+Pretoria,scattered clouds,294.02,294.02
+Seoul,mist,274.91,272.93
+Juba,light rain,299.57,299.57
+Madrid,broken clouds,289.83,288.27
+Colombo,overcast clouds,300.63,300.63
+Khartoum,scattered clouds,309.04,309.04
+Distrikt Paramaribo,broken clouds,305.1,305.1
+Stockholm,clear sky,285.01,283.81
+Bern,clear sky,288.23,286.17
+Damascus,clear sky,287.57,287.57
+Dushanbe,clear sky,290.05,290.05
+Dodoma,overcast clouds,295.7,295.7
+Bangkok,overcast clouds,303.12,300.32
+Lomé,overcast clouds,307.1,307.1
+Nan,scattered clouds,297.15,297.15
+Nuku'alofa,light rain,299.34,299.34
+Port of Spain,scattered clouds,305.35,305.35
+Tunisia,clear sky,293.84,293.84
+Ankara,overcast clouds,273.66,273.26
+Ashgabat,scattered clouds,298.89,298.89
+Cockburn Town,clear sky,296.31,296.31
+Funafuti,few clouds,302.15,302.15
+Kampala,overcast clouds,295.33,295.33
+Kyiv,overcast clouds,280.22,280.22
+Abu Dhabi,clear sky,299.23,299.23
+London,overcast clouds,290.68,289.1
+Washington,overcast clouds,273.47,273.18
+Charlotte Amalie,broken clouds,301.0,301.0
+Montevideo,broken clouds,297.36,294.55
+Tashkent,clear sky,295.12,295.12
+Port-Vila,few clouds,297.93,297.93
+Vatican City,clear sky,287.12,285.86
+Caracas,overcast clouds,299.91,298.53
+Hanoi,overcast clouds,292.15,292.15
+Mata-Utu,overcast clouds,301.39,301.39
+Sanaa,overcast clouds,290.44,290.44
+Lusaka,broken clouds,292.39,292.39
+Harare,broken clouds,295.27,295.27
