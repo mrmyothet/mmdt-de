@@ -1,0 +1,23 @@
+name: Demo Workflow
+on: 
+  push: 
+    branches: 
+      - main
+      
+  workflow_dispatch:
+
+jobs: 
+  simple-etl:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: checkout repo
+        uses: actions/checkout@v4
+      - name: setup python 
+        uses: actions/setup-python@v5
+        with: 
+          python-version: "3.12"
+          cache: "pip"
+      - name: install libraries
+        run: pip install -r requirements.txt
+      - name: run python file as testing
+        run: python week_8/1_covid_19_data.py
